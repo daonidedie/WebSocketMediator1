@@ -2,7 +2,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-    <title>websocket client ver1.2</title>
+    <title>websocket client ver2.0  ProxyServer</title>
     <style type="text/css">
         body {
             /*background-color: #000000;

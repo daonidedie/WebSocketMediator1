@@ -20,7 +20,7 @@ public partial class Mediator : System.Web.UI.Page
     {
 
 
-        var sb = "一汽DGSNode1;175.19.140.4:4618,本地测试代理;127.0.0.1:4618;";
+        var sb = "一汽DGSNode1;175.19.140.4:4618,本地测试代理;127.0.0.1:4618;,胡家豪;172.16.15.121:4618;";
         var data = sb.Split(',');
 
          Repeater1.DataSource = from p in data
