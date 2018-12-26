@@ -37,4 +37,9 @@ public class SocketClientMapping
     /// 最后活动时间
     /// </summary>
    public DateTime LastActiveTime { get; set; }
+
+    /// <summary>
+    /// 消息集合
+    /// </summary>
+    public List<IWSEntity> Records { get; set; }
 }
